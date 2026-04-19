@@ -8,7 +8,7 @@
 </p>
 
 ## About Laravel
-<a color=red>ДАННЫЕ АДМИН ПАНЕЛИ</a>
+<a style="color: red;">ДАННЫЕ АДМИН ПАНЕЛИ</a>
 admin@mail.ru
 987654123
 
