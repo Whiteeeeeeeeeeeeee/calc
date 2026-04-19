@@ -6,9 +6,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+<a style="color: red;">ДАННЫЕ АДМИН ПАНЕЛИ</a>
 
 ## About Laravel
-<a style="color: red;">ДАННЫЕ АДМИН ПАНЕЛИ</a>
+
 admin@mail.ru
 987654123
 
